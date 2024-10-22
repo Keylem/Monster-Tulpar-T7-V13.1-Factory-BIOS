@@ -1,0 +1,40 @@
+/* ************************************************************************* */
+/* Project N87HPx, IT/8587 K/B Embedded(C-code) Release Note                 */
+/* ************************************************************************* */
+// Version: 1.05.05  CheckSum: F8B4
+// Date:  2017/10/26
+// 1.Modified smart fan control as below.     
+// Total Power: 63w 
+// Fan Duty: 35%
+// CPU Temp: 68¢J
+// Debounce time: 30s
+// Version: 1.05.04  CheckSum: 0280
+// Date:  2017/10/18
+// 1.Modified smart fan control.
+// Version: 1.05.03  CheckSum: 367F
+// Date:  2017/06/29
+// 1.Modified smart fan control.(QE conditional approval No.3)
+// Version: 1.05.02  CheckSum: 36EF
+// Date:  2017/06/23
+// 1.Modified smart fan control.
+// Version: 1.05.01  CheckSum: 56DD
+// Date:  2017/06/19
+// 1.Release EC 1.05.01.
+// Version: 1.05.P5  CheckSum: 5A5B
+// Date:  2017/06/14
+// 1.Modified smart fan control.
+// Version: 1.05.P4  CheckSum: 3A22
+// Date:  2017/06/09
+// 1.Added TI charger ic function.
+// 2.Modified LED K/B sleeping methods.
+// 3.Modified smart fan control.
+// Version: 1.05.P3  CheckSum: 6B62 
+// Date:  2017/06/02
+// 1.Modified smart fan control.
+// Version: 1.05.P2  CheckSum: 66F4
+// Date:  2017/05/26
+// 1.Added K/B Sleeping function.
+// 2.Modified adapter current for 6.4A.
+// Version: 1.05.P1  CheckSum: E82D
+// Date:  2017/05/16
+// 1.Modified local shutdown for 95 degree C.
